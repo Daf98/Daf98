@@ -14,7 +14,4 @@ const Daf = {
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daf98&theme=tokyonight" alt="Most used languages">
 </p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Daf98&show_icons=true&hide_border=true" alt="My stats">
-</p>
 ⭐️ From [Daf98](https://github.com/Daf98)
