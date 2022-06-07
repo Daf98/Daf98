@@ -1,3 +1,4 @@
+```javascript
 const Daf = {
     pronouns: "She" | "Her",
     code: ["Javascript"],
@@ -9,4 +10,5 @@ const Daf = {
         databases: ["mongo"]
     }
 };
+```
 ⭐️ From [Daf98](https://github.com/Daf98)
