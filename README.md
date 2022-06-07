@@ -1,18 +1,12 @@
-```js
-import SoftwareDeveloper from 'Daf98';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Dafne Azzolina';
-  title    = 'Full Stack Developer';
-  company  = 'Microverse';
-  location = 'Santa Fe, Argentina';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript'];
-  databases  = ['MongoDB'];
-  frameworks = ['React'];
-}
-```
-
+const Daf = {
+    pronouns: "She" | "Her",
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "music", "sci-fi"],
+    technologies: {
+       backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo"]
+    }
+};
 ⭐️ From [Daf98](https://github.com/Daf98)
