@@ -1,13 +1,13 @@
 ```javascript
 const Daf = {
-    pronouns: "She" | "Her",
+    pronouns: "she" | "her",
     code: ["Javascript"],
     askMeAbout: ["web dev", "music", "sci-fi", "horror", "physics"],
     technologies: {
        backEnd: {
             js: ["node", "express"],
         },
-        databases: ["mongo"]
+        databases: ["mongoDB"]
     }
 };
 ```
