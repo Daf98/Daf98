@@ -5,7 +5,7 @@ const Daf = {
     askMeAbout: ["web dev", "music", "sci-fi", "horror", "physics"],
     technologies: {
        backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
         },
         databases: ["mongoDB"]
     }
