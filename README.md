@@ -1,13 +1,14 @@
 ```javascript
 const Daf = {
     pronouns: "she" | "her",
-    code: ["Javascript", "React"],
+    code: ["Javascript", "React", "Ruby", "Rails"],
     askMeAbout: ["web dev", "music", "sci-fi", "horror", "physics"],
     technologies: {
        backEnd: {
             js: ["Node", "Express"],
+            ruby: ["Rails"]
         },
-        databases: ["mongoDB"]
+        databases: ["mongoDB", "PostgreSQL"]
     }
 };
 ```
