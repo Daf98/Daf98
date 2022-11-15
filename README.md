@@ -4,11 +4,12 @@ const Daf = {
     code: ["Javascript", "React", "Ruby", "Rails"],
     askMeAbout: ["web dev", "music", "sci-fi", "horror", "physics"],
     technologies: {
-       backEnd: {
-            js: ["Node", "Express"],
+        frontEnd: {
+            javascript: ["React"],
+        backEnd: {
             ruby: ["Rails"]
         },
-        databases: ["mongoDB", "PostgreSQL"]
+        databases: ["PostgreSQL"]
     }
 };
 ```
