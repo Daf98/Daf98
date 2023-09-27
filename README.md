@@ -1,7 +1,7 @@
 ```javascript
 const Daf = {
     pronouns: "she" | "her",
-    code: ["Javascript", "React", "Ruby", "Rails"],
+    code: ["Javascript", "MERN", "Ruby on Rails"],
     askMeAbout: ["web dev", "music", "sci-fi", "horror", "physics"],
     technologies: {
         frontEnd: {
