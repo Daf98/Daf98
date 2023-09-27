@@ -9,7 +9,7 @@ const Daf = {
                 },
         backEnd: {
             ruby: ["Rails"]
-        },
+                },
         databases: ["PostgreSQL"],
         miscellaneous: ["GraphQL"]
     }
