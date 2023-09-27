@@ -1,18 +1,18 @@
 ```javascript
 const Daf = {
     pronouns: "she" | "her",
-    code: ["Javascript", "MERN", "Ruby on Rails", "Gatsby", "GraphQL"],
+    code: ["Javascript", "MERN", "Ruby on Rails"],
     askMeAbout: ["web dev", "music", "sci-fi", "horror", "physics"],
     technologies: {
         frontEnd: {
-            javascript: ["React"], ["Gatsby"]
+            javascript: ["React"]
                 },
         backEnd: {
-            ruby: ["Rails"],
-                },
+            ruby: ["Rails"]
+        },
         databases: ["PostgreSQL"],
-miscellaneous: ["GraphQL"]
-                }
+        miscellaneous: ["GraphQL"]
+    }
 };
 ```
 <p align="center">
@@ -20,3 +20,4 @@ miscellaneous: ["GraphQL"]
 </p>
 
 ⭐️ From [Daf98](https://github.com/Daf98)
+
